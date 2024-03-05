@@ -16,26 +16,6 @@ SPDX-License-Identifier: GPL-2.0-or-later
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
 
-<p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
-            alt="Azure Mainline CI Build Status">
-    </a>
-    <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-</p>
-
-<p align="center">
-  <a href="#compatibility">Compatibility</a> |
-  <a href="#development">Development</a> |
-  <a href="#building">Building</a> |
-  <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
-  <a href="#license">License</a>
-</p>
-
 ## Development
 
 Most of the development happens on GitHub. It's also where [our central repository](https://github.com/zuqu/zuqu) is hosted. For development discussion.
