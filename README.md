@@ -18,20 +18,16 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/zuqu/zuqu) is hosted. For development discussion.
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/SametChan/zuqu) is hosted. For development discussion.
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/zuqu/zuqu/wiki/Contributing) and [Developer Information](https://github.com/zuqu/zuqu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/SametChan/zuqu/wiki/Contributing) and [Developer Information](https://github.com/zuqu/zuqu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/zuqu/zuqu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/zuqu/zuqu/wiki/Building-For-Linux)
-
-## Download
-
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
+* __Windows__: [Windows Build](https://github.com/SametChan/zuqu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://github.com/SametChan/zuqu/wiki/Building-For-Linux)
 
 ## License
 
-zuqu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/zuqu/zuqu/blob/master/LICENSE.txt) file.
+zuqu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/SametChan/zuqu/blob/master/LICENSE.txt) file.
