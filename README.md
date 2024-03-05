@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2018 yuzu Emulator Project
+SPDX-FileCopyrightText: 2024 zuqu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
@@ -7,11 +7,11 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <br>
   <img src="https://i.ibb.co/Jrzm1zn/e7813667b58693e90693448a350b51f166e0f170-00.jpg" alt="yuzu" width="200">
   <br>
-  <b>yuzu</b>
+  <b>zuqu</b>
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>zuqu</b> is the world's most popular, open-source, NS emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">C!tr4</a>.
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
@@ -36,50 +36,22 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#license">License</a>
 </p>
 
-## Compatibility
-
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
-
-For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
-
-Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
-
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/zuqu/zuqu) is hosted. For development discussion.
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/zuqu/zuqu/wiki/Contributing) and [Developer Information](https://github.com/zuqu/zuqu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
-
-If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+* __Windows__: [Windows Build](https://github.com/zuqu/zuqu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://github.com/zuqu/zuqu/wiki/Building-For-Linux)
 
 ## Download
 
 You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
 
-
-## Support
-
-If you enjoy the project and want to support us financially, check out our Patreon!
-
-<a href="https://www.patreon.com/yuzuteam">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-Any donations received will go towards things like:
-* Switch consoles to explore and reverse-engineer the hardware
-* Switch games for testing, reverse-engineering, and implementing new features
-* Web hosting and infrastructure setup
-* Software licenses (e.g. Visual Studio, IDA Pro, etc.)
-* Additional hardware (e.g. GPUs as-needed to improve rendering support, other peripherals to add support for, etc.)
-
-If you wish to support us a different way, please join our [Discord](https://discord.gg/u77vRWY) and talk to bunnei. You may also contact: donations@yuzu-emu.org.
-
 ## License
 
-yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+zuqu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/zuqu/zuqu/blob/master/LICENSE.txt) file.
